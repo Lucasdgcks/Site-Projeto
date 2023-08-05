@@ -1,18 +1,14 @@
 section{
     border-radius: 10px;
-    background-color: black;
+    background-color: rgb(189, 189, 189);
     padding: 7px;
-    box-shadow: 3px 3px 7px;
-   
-    width: 500px;
-    text-align: left;
-    
+    box-shadow: 3px 3px 8px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
 }
-p{
-    border-radius: 10px;
-    background-color: rgb(255, 251, 0);
-    padding: 7px;
-    box-shadow: 3px 3px 7px;
+h2{
+    text-align: center;
 }
 body{
     text-align: center;
