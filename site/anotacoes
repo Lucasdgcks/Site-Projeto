@@ -1,0 +1,13 @@
+1-Usando um marca texto (mark)
+2-Textos deletado "faz um traço sobrepondo o texto" (del) e inserido ou sublinhado (ins)
+3-Sobrescrito (sup)"x^20" e subscrito (sub)"h20"
+4-Fonte mono espaçada (code) boa pra escrever codigos
+5-Formata exatamente como vc escreveu no html (pre)
+6-Citação simples (q)
+7-Citação em bloco  (blockcode cite="URL") *cite* so se vc quiser
+8-Colocar um significado de uma abreviação (abbr)
+9-Listas: Ordenada (ol type="") e não ordenada (ul) pode escolher type=""
+10-Lista mista, so colocar ol/ul dentro de ol/ul exemplo:sumário
+11-Lista de definição: termo(dt) e descrição(dd) exemplo: <dt> HTML </dt> <dd> linguagem de criaçao de conteudo de um site </dd>
+12- LINK EXTERNO: (a) e para abrir uma nova aba adicione target="_blank" rel="external" logo depois do nome do site exemplo: "http//fhfhfakfh,com" target="_blank" rel="external"
+13-LINK INTERNO: (a) rel="next" proxima pagina, rel="prev" pra voltar a pagima
