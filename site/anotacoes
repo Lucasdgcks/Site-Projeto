@@ -11,3 +11,8 @@
 11-Lista de definição: termo(dt) e descrição(dd) exemplo: <dt> HTML </dt> <dd> linguagem de criaçao de conteudo de um site </dd>
 12- LINK EXTERNO: (a) e para abrir uma nova aba adicione target="_blank" rel="external" logo depois do nome do site exemplo: "http//fhfhfakfh,com" target="_blank" rel="external"
 13-LINK INTERNO: (a) rel="next" proxima pagina, rel="prev" pra voltar a pagima
+14- LINK DOWNLOAD: (a) href="link do arquivo" download="nome do arquivo" type="acesse o site media types pra ver o link do tipo do arquivo"
+15-IMAGEM DINÂMICA: (picture) e dentro dela a (img) maior e depois acima da (img) a tag (source) com media="(max-width: ????px)" srcset="arquivo da imagem. Segue a ordem de imagens pra cima G-M-Pequena
+AUDIO: (audio) parametros: preload="metadata"- vai baixar o audio so quando der play. ="auto"-ja baixa o audio assim q abre o site. Dentro do audio (source) src="link do arquivo" e type="audio/mp3,mepg,wav ou ogg
+obs: quando tem (source) significa q apenas um vai funcionar, e segue a ordem de cima pra baixo
+18-
