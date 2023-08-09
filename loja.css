@@ -1,0 +1,183 @@
+ul.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* Estilos do menu */
+  .menu {
+    display: flex;
+    background-color: #333;
+  }
+  
+  .menu li {
+    margin: 0;
+    padding: 10px 20px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .menu a:hover {
+    text-decoration: underline;
+  }
+body{
+    background-image: linear-gradient(to right, rgb(67, 67, 250),rgb(62, 122, 253), aqua);
+    margin: auto;
+}
+@font-face {
+    font-family: 'code';
+    src: url('code.ttf') format('truetype');
+}
+#fenixazul{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #E2E5E8;
+    box-shadow: 3px 3px 5px blue;
+    border-radius: 40px;
+    width: 100px;
+    margin: auto;
+    margin-bottom: 10px;
+    cursor: grab;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    text-align: center;
+}
+#info{
+    background-color: white;
+    border-radius: 10px;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    max-width: 690px;
+    text-align: justify;
+}
+#contemnotebooks{
+  margin: auto;
+  text-align: center;
+  
+}
+div.notebooks{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+    width: 320px;
+    padding: 10px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+
+}
+p.notebooks{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p.infonote{
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    box-shadow: 3px 3px 6px aqua;
+    border-color: aqua;
+    padding: 10px;
+}
+button:hover{
+  box-shadow: 5px 5px 12px rgb(5, 194, 5);
+  cursor: pointer;
+}
+#botao{
+    text-align: center;
+}
+p.preço{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+#parcelamento{
+    font-size: smaller;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-menu {
+    text-align: center;
+    position: static;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+  }
+  
+  .footer-menu .menu {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    list-style: none;
+  }
+  
+  .footer-menu .menu li {
+    margin: 0 10px;
+  }
+  
+  .footer-menu a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .footer-menu a:hover {
+    text-decoration: underline;
+  }
+  #lucas{
+    color: #E2E5E8;
+    font-family: 'Times New Roman', Times, serif;
+   }
