@@ -1,0 +1,124 @@
+ul.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* Estilos do menu */
+  .menu {
+    display: flex;
+    background-color: #333;
+  }
+  
+  .menu li {
+    margin: 0;
+    padding: 10px 20px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .menu a:hover {
+    text-decoration: underline;
+  }
+body{
+    background-image: linear-gradient(to right,#ff3131, #ff914d);
+    margin: auto;
+}
+@font-face {
+    font-family: 'code';
+    src: url('code.ttf') format('truetype');
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+}
+h3{
+    text-align: center;
+}
+section{
+    text-align: justify;
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 5px 5px 12px orangered;
+    font-family: cursive;
+    width: 690px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#logoimg{
+    text-align: center;
+}
+#codeimg{
+  border-radius: 50px;
+  box-shadow: 3px 3px 12px orangered ;
+}
+div.serviços1{
+    width: 300px;
+    background-image: linear-gradient(to bottom, #FA8806,#F79D04,#F3A259);
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    margin: auto;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    box-shadow: 4px 4px 20px orange;
+}
+div.serviços2{
+    width: 300px;
+    background-image: linear-gradient(to bottom, #FA8806,#F79D04,#F3A259);
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    margin: auto;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    box-shadow: 4px 4px 20px orange;
+}
+div.botao{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    border-color: #ff3131;
+    border-radius: 30px;
+    background-color: rgba(253, 9, 9, 0.767);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000000;
+    box-shadow: 3px 3px 10px red;
+    cursor: pointer;
+}
+.footer-menu {
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+  }
+  
+  .footer-menu .menu {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    list-style: none;
+  }
+  
+  .footer-menu .menu li {
+    margin: 0 10px;
+  }
+  
+  .footer-menu a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .footer-menu a:hover {
+    text-decoration: underline;
+  }
+
+  
