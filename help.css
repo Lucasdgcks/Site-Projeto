@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'bebas';
+    src: url('BebasNeue-Regular.ttf') format('truetype');
+  }
+  header{
+    background-image: linear-gradient(to bottom, orangered, orange);
+    display: flow-root;
+    color: white;
+    font-family: 'bebas', Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    margin: auto;
+    letter-spacing: 2px;
+  }
+body{
+    background-image: linear-gradient(to right,#ff3131, #ff914d);
+    margin: auto;
+}
+ul.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+.menu {
+display: flex;
+background-color: #333;
+}
+
+.menu li {
+margin: 0;
+padding: 10px 20px;
+margin-top: 5px;
+}
+
+.menu a {
+text-decoration: none;
+color: white;
+}
+
+.menu a:hover {
+  box-shadow: 3px 3px 7px  #d1d0d0;
+  padding: 6px;
+  border-radius: 10px;
+  transition: 0.2s;
+}
+#help{
+    font-family: 'bebas';
+    text-align: center;
+    font-size: 4em;
+    color: white;
+    border-radius: 40px;
+    box-shadow: 3px 3px 10px orangered;
+    max-width: 130px;
+    margin: auto;
+    margin-top: 8px;
+    letter-spacing: 3px;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+h3{
+    text-align: center;
+}
+main{
+  background-image: linear-gradient(to right,#ABB1BB,#E2E5E8 );
+  text-align: justify;
+  text-align: center;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 5px 5px 12px orangered;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 600px;
+}
+input{
+    border-radius: 6px;
+    border-color: #ABB1BB;
+}
+.footer-menu {
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+}
+
+.footer-menu .menu {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  list-style: none;
+}
+
+.footer-menu .menu li {
+  margin: 0 10px;
+}
+
+.footer-menu a {
+  text-decoration: none;
+  color: white;
+}
+#lucas{
+color: #E2E5E8;
+font-family: 'Times New Roman', Times, serif;
+}

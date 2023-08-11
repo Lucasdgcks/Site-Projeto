@@ -1,0 +1,200 @@
+header{
+  background-image: linear-gradient(to top, rgb(67, 67, 250),rgb(62, 122, 253), aqua);
+  display: flow-root;
+  color: white;
+  font-family: 'bebas', Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  text-align: center;
+  margin: auto;
+  letter-spacing: 2px;
+}
+ul.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* Estilos do menu */
+  .menu {
+    display: flex;
+    background-color: #333;
+  }
+  
+  .menu li {
+    margin: 0;
+    padding: 10px 20px;
+    margin-top: 5px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .menu a:hover {
+    box-shadow: 3px 3px 7px #d1d0d0;
+    padding: 6px;
+    border-radius: 10px;
+    transition: 0.2s;
+  }
+body{
+    background-image: linear-gradient(to bottom, rgb(67, 67, 250),rgb(62, 122, 253), aqua);
+    margin: auto;
+}
+@font-face {
+  font-family: 'bebas';
+  src: url('BebasNeue-Regular.ttf') format('truetype');
+}
+#fenixazul{
+    text-align: center;
+}
+#store{
+    font-family:'bebas', Arial, Helvetica, sans-serif;
+    font-size: 4em;
+    text-align: center;
+    color: #E2E5E8;
+    box-shadow: 3px 3px 5px blue;
+    border-radius: 40px;
+    max-width: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+    cursor: grab;
+    letter-spacing: 1px;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+}
+#info{
+    background-color: white;
+    border-radius: 10px;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    max-width: 690px;
+    text-align: justify;
+}
+#contemnotebooks{
+  margin: auto;
+  text-align: center;
+  
+}
+div.notebooks{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+    width: 320px;
+    padding: 10px;
+    background-color: white;
+    margin: auto;
+    margin-right:10px;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+
+}
+p.notebooks{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p.infonote{
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    box-shadow: 3px 3px 6px aqua;
+    border-color: aqua;
+    padding: 10px;
+}
+button:hover{
+  box-shadow: 5px 5px 12px rgb(5, 194, 5);
+  cursor: pointer;
+}
+#botao{
+    text-align: center;
+}
+p.preço{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    
+}
+#parcelamento{
+    font-size: smaller;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-menu {
+    text-align: center;
+    position: static;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+  }
+  
+  .footer-menu .menu {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    list-style: none;
+  }
+  
+  .footer-menu .menu li {
+    margin: 0 10px;
+  }
+  
+  .footer-menu a {
+    text-decoration: none;
+    color: white;
+  }
+  #lucas{
+    color: #E2E5E8;
+    font-family: 'Times New Roman', Times, serif;
+   }
